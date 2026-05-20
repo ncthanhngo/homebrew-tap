@@ -1,8 +1,8 @@
 cask "claude-bar" do
-  version "1.0.0"
-  sha256 "7d035d108ab49cf6c777f2984436dafe20829a3b5aa778dffee1a2a4001426ca"
+  version "1.0.1"
+  sha256 "44ccc228331f85ff3c7b3002d58d3ade59c009cbc7b135a422d8a666b5293049"
 
-  url "https://github.com/ncthanhngo/claude-bar/releases/download/v#{version}/ClaudeBar.zip"
+  url "https://github.com/ncthanhngo/claude-bar/releases/download/v\#{version}/ClaudeBar.zip"
   name "Claude Bar"
   desc "macOS menu-bar manager for multiple Claude Code accounts"
   homepage "https://github.com/ncthanhngo/claude-bar"
