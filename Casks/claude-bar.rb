@@ -1,6 +1,6 @@
 cask "claude-bar" do
-  version "10.45"
-  sha256 "67fc47601a2c18355f054b5521de23194b6d2367afda79e199987a99c70bb93a"
+  version "10.46"
+  sha256 "fd50b848a20737ef306f5eff94524ed93b93deea9799282fe941f772f0b8167b"
 
   url "https://github.com/ncthanhngo/claude-bar/releases/download/v#{version}/ClaudeBar.zip"
   name "Claude Bar"
